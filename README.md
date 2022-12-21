@@ -5,3 +5,6 @@ A Spring boot enterprise application using Hibernate to build a web page that re
 >> System design
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/31111993/208987704-ae3ab5f9-0292-4afb-b89d-bcff0127d4e8.png">
+ 
+ >> Classes with Database relationship
+ <img width="522" alt="image" src="https://user-images.githubusercontent.com/31111993/208987926-40ae6d83-2cab-4818-9d86-19841e7cd9b2.png">
