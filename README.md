@@ -26,3 +26,7 @@ The task table has one column ‘user_id’ which helps in mapping each task to 
 The comment table has two associations with User and Task. It has two foreign keys one identifying the user who added the comment and the other the task to which the comment was added. 
 A combination of (1,4) would mean a comment added by the user(One) to task(Four). 
 The activity table has a very similar association with the User and Task tables. A combination of (1,4) would mean the activity was done by User(One) to the task(Four). 
+
+>> Database properties
+
+hibernate.cfg.xml has all the properties of the connection with database, for the project to run on a local system update the database connection with your personal MySQL workbench login
